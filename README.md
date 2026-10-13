@@ -28,7 +28,7 @@ I aim to design and deliver AI-powered products that are useful, maintainable, a
 ## 🤝 Connect
 
 * [GitHub](https://github.com/sujaynithixh)
-* LinkedIn: add verified profile URL here
+* LinkedIn:https://www.linkedin.com/in/sujaynithish-n-87132a442/
 
 ---
 
