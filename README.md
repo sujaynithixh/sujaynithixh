@@ -8,10 +8,10 @@ I'm a technology professional interested in turning AI capabilities into practic
 
 ## 🔍 Areas of Focus
 
-- **Generative AI:** LLM applications, prompt engineering, and intelligent workflows
-- **Engineering:** Python, APIs, system integration, and automation
-- **Exploring:** RAG, agentic systems, and AI solution deployment
-- **Architecture:** System design, scalability, and technical problem-solving
+- **Generative AI:** LLM applications, prompt engineering, intelligent workflows, and AI model exploration
+- **Engineering:** Python, APIs, system integration, automation, and MCP-based tool connectivity
+- **Exploring:** RAG, MCP, agentic systems, AI models, and AI solution deployment
+- **Architecture:** System design, scalability, technical problem-solving, and AI application architecture
 
 ## 🚀 Trending AI Topics I'm Exploring
 
