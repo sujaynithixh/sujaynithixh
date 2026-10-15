@@ -19,8 +19,6 @@ I'm a technology professional interested in turning AI capabilities into practic
 - **Agentic AI:** Building AI agents that can reason, plan, use tools, and complete tasks step by step
 - **RAG (Retrieval-Augmented Generation):** Creating AI systems that answer using private documents and knowledge bases
 - **Vector Databases:** Working with embeddings, semantic search, and AI-powered information retrieval
-- **LLMOps:** Managing prompts, evaluations, model monitoring, and reliable AI application deployment
-- **AI Automation:** Designing intelligent workflows using Python, APIs, and tool integrations
 - **Forward Deployed Engineering:** Understanding user problems, building solutions, and making them work in real environments
 - **Generative AI Products:** Turning AI ideas into practical, maintainable, and user-focused applications
 
